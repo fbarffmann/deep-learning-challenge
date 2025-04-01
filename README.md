@@ -102,4 +102,3 @@ jupyter notebook AlphabetSoupCharity.ipynb
 
 👨‍💻 Developed by **Finn Brennan Arffmann**  
 🔗 GitHub: [@fbarffmann](https://github.com/fbarffmann)  
-💼 LinkedIn: [linkedin.com/in/fbarffmann](https://linkedin.com/in/fbarffmann)
